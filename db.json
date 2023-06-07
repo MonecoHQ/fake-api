@@ -1,0 +1,65 @@
+{
+  "wallets": [
+    {
+      "id": "1",
+      "name": "CashPlus"
+    },
+    {
+      "id": "2",
+      "name": "Orange Money"
+    },
+    {
+      "id": "3",
+      "name": "Wave"
+    },
+		{
+      "id": "4",
+      "name": "Moov Togo"
+    }
+		
+  ],
+ 
+  "countries": [
+    {
+      "id": "1",
+      "name": "Benin",
+      "currency_code": "XOF"
+    },
+    {
+      "id": "2",
+      "name": "Morocco",
+      "currency_code": "MAD"
+    },
+    {
+      "id": "3",
+      "name": "Togo",
+      "currency_code": "XOF"
+    },
+		{
+      "id": "4",
+      "name": "Senegal",
+      "currency_code": "XOF"
+    }
+  ],
+"recipients": [
+    {
+      "id": "1",
+      "name": "Kwame Kounou",
+      "country": "Benin",
+      "mobile_wallet": "MTN Mobile Money"
+    },
+    {
+      "id": "2",
+      "name": "Amina Radjabaly",
+      "country": "Senegal",
+      "mobile_wallet": "Wave"
+    },
+    {
+      "id": "3",
+      "name": "Bilal Dahlab",
+      "country": "Maroc",
+      "mobile_wallet": "CashPlus"
+    }
+  ]
+}
+
